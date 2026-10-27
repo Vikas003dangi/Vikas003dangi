@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Vikas003dangi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=435&height=40&lines=Hey+%F0%9F%91%8B+I'm+Vikas+Dangi" alt="Typing SVG" /></a>
 
-**`Gen AI Engineer`&nbsp;&nbsp;`Full-Stack Architect`&nbsp;&nbsp;`Oracle Certified`**
+**`Gen AI & Python Full-Stack Engineer`&nbsp;&nbsp;`Oracle Certified`&nbsp;&nbsp;`RAG & LLMs`**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-dangi-dev)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vd19055@gmail.com)
@@ -16,11 +16,11 @@
 
 ### 🧑‍💻 About Me
 
-🎓 **B.Tech AI & Data Science** — SATI Vidisha (2025) &nbsp;|&nbsp; 🏅 **Oracle Certified GenAI Professional**
+🎓 **B.Tech AI & Data Science** — SATI Vidisha (First Division, 6.81 CGPA) &nbsp;|&nbsp; 🏅 **Oracle Certified GenAI Professional (2025)**
 
-Gen AI & Python Full-Stack Engineer with hands-on experience in **RAG pipelines**, **LLMs**, **multi-agent systems**, and **computer vision**. Built domain-specific RAG with RRF & MMR re-ranking at **IteraSim**, contributed to ML research at **FITT — IIT Delhi**, and architected a **191k+ LOC production campus ERP** live on Google Play Store.
+Generative AI & Python Full-Stack Engineer with hands-on experience in **RAG** (RRF, MMR re-ranking, HNSW), **LLMs**, **multi-agent systems**, and **computer vision**. Developed domain-specific RAG pipelines at **IteraSim**, contributed to ML research at **FITT — IIT Delhi**, and architected **ABCD Smart Campus** (386k+ LOC, Django 5.2, WebSockets, Redis) — live on Google Play Store.
 
-🔍 Open to **Gen AI / ML / Full-Stack** roles &nbsp;|&nbsp; 📍 Madhya Pradesh, India
+🔍 Open to **Generative AI / Python Full-Stack** roles &nbsp;|&nbsp; 📍 Ganj Basoda, Madhya Pradesh, India
 
 ---
 
@@ -44,7 +44,7 @@ Gen AI & Python Full-Stack Engineer with hands-on experience in **RAG pipelines*
 [![Play Store](https://img.shields.io/badge/📱_Play_Store-Android-34A853?style=for-the-badge)](https://play.google.com/store/apps/details?id=in.abcdcampus.app)
 [![Repo](https://img.shields.io/badge/📦_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Vikas003dangi/abcd-smart-campus)
 
-> Enterprise campus ERP — **191k+ LOC**, 46 models, 210 tests, 22 self-healing daemons.
+> Enterprise campus ERP — **386k+ LOC**, 60 models, 210 tests, 22 self-healing daemons.
 > Real-time WebSocket seat allocation, cryptographic PDF receipts, WhatsApp notifications, Android TWA on Play Store.
 > **Django 5.2 · Channels · PostgreSQL · Daphne ASGI · Cloudinary · ReportLab**
 
@@ -77,11 +77,11 @@ Gen AI & Python Full-Stack Engineer with hands-on experience in **RAG pipelines*
 
 ### 🏢 Experience
 
-| Year | Role |
+| When | Role |
 |:---|:---|
-| **2026** | **AI R&D Intern** @ [IteraSim](https://iterasim.in) — RAG pipelines, HNSW, multi-agent |
-| **2024** | **Data Science Intern** @ [FITT, IIT Delhi](https://fitt.iitd.ac.in) — ML research |
-| **2023** | **AI Intern** @ SKOLAR — data pipelines, classification |
+| **May–Sep 2026** | **AI R&D Intern (Gen AI & RAG)** @ [IteraSim](https://iterasim.in) — domain-specific RAG pipelines, HNSW, RRF + MMR re-ranking, multi-agent workflows |
+| **Jan–Mar 2024** | **Data Science & AI Intern** @ [FITT — IIT Delhi](https://fitt.iitd.ac.in) — research datasets, feature engineering, predictive models |
+| **Aug–Oct 2023** | **AI Intern** @ SKOLAR — data ingestion pipelines, classification models, web dashboards |
 
 ---
 
