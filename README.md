@@ -1,8 +1,11 @@
 <div align="center">
 
-<!-- Animated Typing Title -->
+<!-- Animated Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=180&section=header&text=Vikas%20Dangi&fontSize=42&fontAlignY=35&desc=Generative%20AI%20%26%20Python%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Vikas Dangi Header" />
+
+<!-- Responsive Typing SVG with Comfortable Padding -->
 <a href="https://github.com/Vikas003dangi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Hey+%F0%9F%91%8B+I'm+Vikas+Dangi;Gen+AI+%26+Python+Full-Stack+Engineer;RAG%2C+LLMs+%26+Multi-Agent+Systems;Architect+of+ABCD+Smart+Campus+(386k%2B+LOC)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Hey%2C+I'm+Vikas+Dangi+%F0%9F%91%8B;Gen+AI+%26+Python+Full-Stack+Engineer+%E2%9A%A1;RAG%2C+LLMs+%26+Multi-Agent+Systems+%F0%9F%A4%96;Architect+of+ABCD+Smart+Campus+(386k%2B+LOC)+%F0%9F%9A%80" alt="Typing Subtitle" />
 </a>
 
 <p align="center">
@@ -13,9 +16,13 @@
 <!-- Quick Action Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/vikas-dangi-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
   <a href="mailto:vd19055@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
   <a href="https://abcdcampus.in"><img src="https://img.shields.io/badge/Live_ERP-abcdcampus.in-00C853?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  &nbsp;
   <a href="https://play.google.com/store/apps/details?id=in.abcdcampus.app"><img src="https://img.shields.io/badge/Google_Play-Android_App-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Vikas003dangi&style=flat-square&color=00d9ff" alt="Views" />
 </p>
 
@@ -25,15 +32,28 @@
 
 ### 🧑‍💻 About Me
 
-🎓 **B.Tech in Artificial Intelligence & Data Science** — Samrat Ashok Technological Institute (SATI), Vidisha, M.P. *(First Division, 6.81 CGPA | Final Sem SGPA: 7.93 | June 2025)*  
-🏅 **Oracle Certified Generative AI Professional (2025)** & **Oracle Certified AI Foundations Associate (2025)**
-
-I am a **Generative AI & Python Full-Stack Engineer** with hands-on research and production experience in **RAG pipelines** (RRF, MMR re-ranking, HNSW dense retrieval), **LLMs**, **multi-agent delegation**, and **computer vision**.
-
-* 🏛️ **Production Impact:** Architected **ABCD Smart Campus** (386k+ LOC, Django 5.2, Daphne ASGI, WebSockets, Redis, PostgreSQL) — a live enterprise ERP on **Google Play Store**.
-* 🔬 **Research & Industry:** Developed domain-specific RAG pipelines at **IteraSim** and conducted predictive ML research with scholars at **FITT — IIT Delhi**.
-* 🔍 **Current Status:** Open to **Generative AI / Python Full-Stack Engineer** roles.
-* 📍 **Location:** Ganj Basoda, Madhya Pradesh, India.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        🎓 <b>B.Tech in Artificial Intelligence & Data Science</b> — Samrat Ashok Technological Institute (SATI), Vidisha, M.P. (<i>First Division, 6.81 CGPA | Final Sem SGPA: 7.93 | June 2025</i>)<br/>
+        🏅 <b>Oracle Certified Generative AI Professional (2025)</b> & <b>Oracle Certified AI Foundations Associate (2025)</b>
+      </p>
+      <p>
+        I am a <b>Generative AI & Python Full-Stack Engineer</b> with hands-on research and production experience across <b>RAG pipelines</b> (RRF, MMR re-ranking, HNSW dense retrieval), <b>LLMs</b>, <b>multi-agent delegation</b>, and <b>computer vision</b>.
+      </p>
+      <ul>
+        <li>🏛️ <b>Production Impact:</b> Architected <b>ABCD Smart Campus</b> (386k+ LOC, Django 5.2, Daphne ASGI, WebSockets, Redis, PostgreSQL) — a live enterprise ERP on <b>Google Play Store</b>.</li>
+        <li>🔬 <b>Research & Industry:</b> Developed domain-specific RAG pipelines at <b>IteraSim</b> and conducted predictive ML research with scholars at <b>FITT — IIT Delhi</b>.</li>
+        <li>🔍 <b>Current Status:</b> Open to <b>Generative AI / Python Full-Stack Engineer</b> roles.</li>
+        <li>📍 <b>Location:</b> Ganj Basoda, Madhya Pradesh, India.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Vikas003dangi/Vikas003dangi/main/assets/vikas_hologram.png" width="100%" alt="Vikas Dangi Hologram Portrait" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 217, 255, 0.35);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,7 +77,7 @@ I am a **Generative AI & Python Full-Stack Engineer** with hands-on research and
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vikas003dangi&show_icons=true&hide_rank=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=a0aec0" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vikas003dangi&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=a0aec0" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Vikas003dangi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f59e0b&currStreakLabel=00d9ff&sideLabels=a0aec0&dates=636e72" alt="GitHub Streak" />
 </p>
@@ -135,6 +155,14 @@ I am a **Generative AI & Python Full-Stack Engineer** with hands-on research and
 
 ---
 
+<!-- Animated Footer Wave Banner -->
 <div align="center">
-  <sub>⭐ Thank you for visiting! Feel free to explore my repositories or reach out for collaborations.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=120&section=footer" width="100%" alt="Footer Wave" />
+
+<p align="center">
+  <b>⭐ Always building, always learning, always shipping to production. ⭐</b><br/>
+  <sub>Feel free to explore my repositories or reach out for collaborations!</sub>
+</p>
+
 </div>
