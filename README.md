@@ -16,11 +16,11 @@
 
 ### 🧑‍💻 About Me
 
-🎓 **B.Tech AI & Data Science** — SATI Vidisha &nbsp;|&nbsp; 🏅 **Oracle Certified GenAI Professional**
+🎓 **B.Tech AI & Data Science** — SATI Vidisha (2025) &nbsp;|&nbsp; 🏅 **Oracle Certified GenAI Professional**
 
-I build production AI systems and ship them. RAG pipelines, LLMs, multi-agent systems, computer vision — and a **191k+ LOC campus ERP** live on Google Play Store with real users and real infrastructure.
+Gen AI & Python Full-Stack Engineer with hands-on experience in **RAG pipelines**, **LLMs**, **multi-agent systems**, and **computer vision**. Built domain-specific RAG with RRF & MMR re-ranking at **IteraSim**, contributed to ML research at **FITT — IIT Delhi**, and architected a **191k+ LOC production campus ERP** live on Google Play Store.
 
-🔭 Currently building RAG & agentic AI at [IteraSim](https://iterasim.in) &nbsp;|&nbsp; 📍 India
+🔍 Open to **Gen AI / ML / Full-Stack** roles &nbsp;|&nbsp; 📍 Madhya Pradesh, India
 
 ---
 
