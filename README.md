@@ -3,9 +3,12 @@
 <!-- Animated Header Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=180&section=header&text=Vikas%20Dangi&fontSize=42&fontAlignY=35&desc=Generative%20AI%20and%20Python%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Vikas Dangi Header" />
 
-<!-- Responsive Typing SVG with Auto-Fit Width -->
+<!-- Responsive Typing SVG: Adapts on Mobile without changing Laptop -->
 <a href="https://github.com/Vikas003dangi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Hey%2C+I'm+Vikas+Dangi+%F0%9F%91%8B;Gen+AI+%26+Python+Engineer+%E2%9A%A1;RAG%2C+LLMs+%26+Multi-Agent+AI+%F0%9F%A4%96;Shipped+ABCD+Smart+Campus+%F0%9F%9A%80" alt="Typing Subtitle" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=350&height=40&lines=Hey%2C+I'm+Vikas+Dangi+%F0%9F%91%8B;Gen+AI+%26+Python+Engineer+%E2%9A%A1;RAG%2C+LLMs+%26+Multi-Agent+AI+%F0%9F%A4%96;Shipped+ABCD+Smart+Campus+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Hey%2C+I'm+Vikas+Dangi+%F0%9F%91%8B;Gen+AI+%26+Python+Engineer+%E2%9A%A1;RAG%2C+LLMs+%26+Multi-Agent+AI+%F0%9F%A4%96;Shipped+ABCD+Smart+Campus+%F0%9F%9A%80" alt="Typing Subtitle" />
+  </picture>
 </a>
 
 <p align="center">
@@ -16,13 +19,9 @@
 <!-- Quick Action Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/vikas-dangi-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
   <a href="mailto:vd19055@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
   <a href="https://abcdcampus.in"><img src="https://img.shields.io/badge/Live_ERP-abcdcampus.in-00C853?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  &nbsp;
   <a href="https://play.google.com/store/apps/details?id=in.abcdcampus.app"><img src="https://img.shields.io/badge/Google_Play-Android_App-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Vikas003dangi&style=flat-square&color=00d9ff" alt="Views" />
 </p>
 
@@ -62,7 +61,10 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,tensorflow,pytorch,opencv,docker,git,linux,html,css,js&theme=dark" alt="Tech Stack" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,tensorflow,pytorch,opencv,docker,git,linux,html,css,js&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,tensorflow,pytorch,opencv,docker,git,linux,html,css,js&theme=dark" alt="Tech Stack" />
+  </picture>
 </a>
 
 </div>
@@ -78,7 +80,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vikas003dangi&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=a0aec0&cache_seconds=1800" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img width="48%" src="https://streak-stats.demolab.com?user=Vikas003dangi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f59e0b&currStreakLabel=00d9ff&sideLabels=a0aec0&dates=636e72&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </p>
 
@@ -92,16 +93,14 @@
 
 <p align="center">
   <a href="https://abcdcampus.in"><img src="https://img.shields.io/badge/🌐_Live_Platform-abcdcampus.in-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Platform" /></a>
-  &nbsp;
   <a href="https://play.google.com/store/apps/details?id=in.abcdcampus.app"><img src="https://img.shields.io/badge/📱_Google_Play-Android_TWA-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" /></a>
-  &nbsp;
   <a href="https://github.com/Vikas003dangi/abcd-smart-campus"><img src="https://img.shields.io/badge/📦_Source_Code-abcd--smart--campus-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
 </p>
 
 > **Industrial-grade educational ERP & smart library ecosystem** engineered for high-throughput concurrency, real-time spatial sync, tamper-evident accounting, and automated background maintenance.
 
 * ⚡ **386k+ Lines of Code & 60 Relational Models:** Full-stack architecture with Django 5.2, Daphne ASGI, and Neon Serverless PostgreSQL with connection pooling.
-* 🪑 **Real-Time Seating Matrix:** Sub-50ms WebSocket push across multiple shifts powered by Django Channels 4.3 & Redis with conflict-free allocation and 3-day automated grace holding.
+* 🪑 **Real-Time Seating Matrix:** Sub-50ms WebSocket push across Ground & 1st Floors (200+ desks) with Redis WebSocket broadcasts, split-shift sharing, and automated hold/grace lifecycles.
 * 🧾 **Cryptographic Financial Ledger:** Double-track billing engine with snapshot freezing, in-memory streaming ReportLab vector PDFs, and SHA-256 verification.
 * 📢 **Omnichannel Notifications:** Fallback routing through Meta WhatsApp Cloud API v19, WebPush VAPID Service Workers, asynchronous SMTP, and live dashboard alerts.
 * 💬 **Guidy Mentorship Network:** Real-time messaging platform with typing indicators, read receipts, and ephemeral storage.
