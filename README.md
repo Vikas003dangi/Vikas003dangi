@@ -77,13 +77,13 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vikas003dangi&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=a0aec0" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vikas003dangi&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=a0aec0&cache_seconds=1800" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Vikas003dangi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f59e0b&currStreakLabel=00d9ff&sideLabels=a0aec0&dates=636e72" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Vikas003dangi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f59e0b&currStreakLabel=00d9ff&sideLabels=a0aec0&dates=636e72&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas003dangi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=a0aec0&langs_count=8" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas003dangi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=a0aec0&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
