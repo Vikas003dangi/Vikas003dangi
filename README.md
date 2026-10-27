@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=180&section=header&text=Vikas%20Dangi&fontSize=42&fontAlignY=35&desc=Generative%20AI%20%26%20Python%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Vikas Dangi Header" />
+<!-- Animated Header Wave Banner (Fixed XML Escaping) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=180&section=header&text=Vikas%20Dangi&fontSize=42&fontAlignY=35&desc=Generative%20AI%20and%20Python%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Vikas Dangi Header" />
 
-<!-- Responsive Typing SVG with Comfortable Padding -->
+<!-- Responsive Typing SVG with Auto-Fit Width -->
 <a href="https://github.com/Vikas003dangi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Hey%2C+I'm+Vikas+Dangi+%F0%9F%91%8B;Gen+AI+%26+Python+Full-Stack+Engineer+%E2%9A%A1;RAG%2C+LLMs+%26+Multi-Agent+Systems+%F0%9F%A4%96;Architect+of+ABCD+Smart+Campus+(386k%2B+LOC)+%F0%9F%9A%80" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Hey%2C+I'm+Vikas+Dangi+%F0%9F%91%8B;Gen+AI+%26+Python+Engineer+%E2%9A%A1;RAG%2C+LLMs+%26+Multi-Agent+AI+%F0%9F%A4%96;Shipped+ABCD+Smart+Campus+%F0%9F%9A%80" alt="Typing Subtitle" />
 </a>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="62%" valign="top">
       <p>
         🎓 <b>B.Tech in Artificial Intelligence & Data Science</b> — Samrat Ashok Technological Institute (SATI), Vidisha, M.P. (<i>First Division, 6.81 CGPA | Final Sem SGPA: 7.93 | June 2025</i>)<br/>
         🏅 <b>Oracle Certified Generative AI Professional (2025)</b> & <b>Oracle Certified AI Foundations Associate (2025)</b>
@@ -49,8 +49,8 @@
         <li>📍 <b>Location:</b> Ganj Basoda, Madhya Pradesh, India.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Vikas003dangi/Vikas003dangi/main/assets/vikas_hologram.png" width="100%" alt="Vikas Dangi Hologram Portrait" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 217, 255, 0.35);" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.25);" />
     </td>
   </tr>
 </table>
