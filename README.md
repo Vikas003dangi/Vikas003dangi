@@ -32,28 +32,15 @@
 
 ### 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>
-        🎓 <b>B.Tech in Artificial Intelligence & Data Science</b> — Samrat Ashok Technological Institute (SATI), Vidisha, M.P. (<i>First Division, 6.81 CGPA | Final Sem SGPA: 7.93 | June 2025</i>)<br/>
-        🏅 <b>Oracle Certified Generative AI Professional (2025)</b> & <b>Oracle Certified AI Foundations Associate (2025)</b>
-      </p>
-      <p>
-        I am a <b>Generative AI & Python Full-Stack Engineer</b> with hands-on research and production experience across <b>RAG pipelines</b> (RRF, MMR re-ranking, HNSW dense retrieval), <b>LLMs</b>, <b>multi-agent delegation</b>, and <b>computer vision</b>.
-      </p>
-      <ul>
-        <li>🏛️ <b>Production Impact:</b> Architected <b>ABCD Smart Campus</b> (386k+ LOC, Django 5.2, Daphne ASGI, WebSockets, Redis, PostgreSQL) — a live enterprise ERP on <b>Google Play Store</b>.</li>
-        <li>🔬 <b>Research & Industry:</b> Developed domain-specific RAG pipelines at <b>IteraSim</b> and conducted predictive ML research with scholars at <b>FITT — IIT Delhi</b>.</li>
-        <li>🔍 <b>Current Status:</b> Open to <b>Generative AI / Python Full-Stack Engineer</b> roles.</li>
-        <li>📍 <b>Location:</b> Ganj Basoda, Madhya Pradesh, India.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Vikas003dangi/Vikas003dangi/main/assets/vikas_hologram.gif" width="100%" alt="Vikas Dangi Animated Hologram" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 217, 255, 0.45);" />
-    </td>
-  </tr>
-</table>
+🎓 **B.Tech in Artificial Intelligence & Data Science** — Samrat Ashok Technological Institute (SATI), Vidisha, M.P. *(First Division, 6.81 CGPA | Final Sem SGPA: 7.93 | June 2025)*  
+🏅 **Oracle Certified Generative AI Professional (2025)** & **Oracle Certified AI Foundations Associate (2025)**
+
+I am a **Generative AI & Python Full-Stack Engineer** with hands-on research and production experience across **RAG pipelines** (RRF, MMR re-ranking, HNSW dense retrieval), **LLMs**, **multi-agent delegation**, and **computer vision**.
+
+* 🏛️ **Production Impact:** Architected **ABCD Smart Campus** (386k+ LOC, Django 5.2, Daphne ASGI, WebSockets, Redis, PostgreSQL) — a live enterprise ERP on **Google Play Store**.
+* 🔬 **Research & Industry:** Developed domain-specific RAG pipelines at **IteraSim** and conducted predictive ML research with scholars at **FITT — IIT Delhi**.
+* 🔍 **Current Status:** Open to **Generative AI / Python Full-Stack Engineer** roles.
+* 📍 **Location:** Ganj Basoda, Madhya Pradesh, India.
 
 ---
 
