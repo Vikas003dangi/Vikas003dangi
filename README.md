@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Vikas+Dangi;Gen+AI+%7C+Full-Stack+%7C+Building+for+Production" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Vikas+Dangi;Gen+AI+%26+Python+Full-Stack+Engineer+%7C+RAG%2C+LLMs+%26+Production+Systems" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7c3aed&height=200&section=header&text=Vikas%20Dangi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Oracle%20Certified&descSize=18&descAlignY=55&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7c3aed&height=200&section=header&text=Vikas%20Dangi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20%26%20Python%20Full-Stack%20Engineer%20%7C%20Python%2C%20RAG%20%26%20LLMs&descSize=18&descAlignY=55&descColor=a0aec0" width="100%"/>
 
 </div>
 
