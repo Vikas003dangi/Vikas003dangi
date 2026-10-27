@@ -27,13 +27,13 @@ I build production AI systems and ship them. RAG pipelines, LLMs, multi-agent sy
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Vikas003dangi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=a0aec0" alt="GitHub Stats" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Vikas003dangi&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=a0aec0" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Vikas003dangi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f59e0b&currStreakLabel=00d9ff&sideLabels=a0aec0&dates=636e72" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikas003dangi&bg_color=0d1117&color=00d9ff&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas003dangi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=a0aec0&langs_count=8" width="47%" alt="Top Languages" />
 </p>
 
 ---
