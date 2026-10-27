@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner (Fixed XML Escaping) -->
+<!-- Animated Header Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=180&section=header&text=Vikas%20Dangi&fontSize=42&fontAlignY=35&desc=Generative%20AI%20and%20Python%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Vikas Dangi Header" />
 
 <!-- Responsive Typing SVG with Auto-Fit Width -->
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="60%" valign="top">
       <p>
         🎓 <b>B.Tech in Artificial Intelligence & Data Science</b> — Samrat Ashok Technological Institute (SATI), Vidisha, M.P. (<i>First Division, 6.81 CGPA | Final Sem SGPA: 7.93 | June 2025</i>)<br/>
         🏅 <b>Oracle Certified Generative AI Professional (2025)</b> & <b>Oracle Certified AI Foundations Associate (2025)</b>
@@ -49,8 +49,8 @@
         <li>📍 <b>Location:</b> Ganj Basoda, Madhya Pradesh, India.</li>
       </ul>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.25);" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Vikas003dangi/Vikas003dangi/main/assets/vikas_hologram.gif" width="100%" alt="Vikas Dangi Animated Hologram" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 217, 255, 0.45);" />
     </td>
   </tr>
 </table>
